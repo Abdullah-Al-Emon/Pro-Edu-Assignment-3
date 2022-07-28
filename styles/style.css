@@ -1,0 +1,6 @@
+#carouselExampleControls .carousel-item{
+    height: 65vh;
+}
+#carouselExampleControls .carousel-item img{
+    opacity: 0.7;
+}
