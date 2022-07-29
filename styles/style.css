@@ -1,17 +1,23 @@
+/* common element  */
 #carouselExampleControls .carousel-item {
     height: 65vh;
 }
 
 #carouselExampleControls .carousel-item img {
-    opacity: 0.7;
+    opacity: 0.8;
 }
 
 .bg-sky {
     background: #F4FAFD;
     border-radius: 5px;
 }
-.bg-light-sky{
-    padding:  70px 30px;
+
+.bg-light-sky {
+    padding: 70px 20px;
     background: #289BDE;
     border-radius: 5px;
+}
+
+.company img {
+    width: 110px;
 }
